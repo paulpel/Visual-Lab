@@ -1,4 +1,4 @@
-Comptuter vision LABORATORY
+Comptuter vision laboratory
 - lab2: Loading, displaying, and saving images and image sequences.
 - lab4: basic operations on images
 - lab5: Filtering and edge detection
